@@ -18,6 +18,7 @@ The infrastructure setup includes:​
 3. Shell Scripting: Used for VM instance startup scripts.​
 
 📁 Repository Structure
+
 .
 ├── main.tf                # Main Terraform configuration
 
