@@ -19,7 +19,6 @@ The infrastructure setup includes:​
 
 📁 Repository Structure
 
-.
 ├── main.tf                # Main Terraform configuration
 
 ├── provider.tf            # Provider configuration for GCP
